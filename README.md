@@ -13,8 +13,8 @@ Clean and organized output
 
 The user can input:
 
-A single IP or a range of IPs (e.g., 192.168.0.1-192.168.0.254)
-A single port or a range of ports (e.g., 80, 20-1000)
+A single IP 
+A range of ports (e.g., 80, 20-1000)
 
 The tool scans the specified targets and returns the open ports found on each host.
 
